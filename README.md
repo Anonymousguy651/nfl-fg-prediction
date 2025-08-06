@@ -28,11 +28,4 @@ A notebook for predicting NFL field-goal success using play-by-play data, from i
 ## Languages and Libraries  
 Python · pandas · numpy · scikit-learn · imbalanced-learn · matplotlib · seaborn  
 
-_For detailed interpretation and a full skills breakdown, see the final markdown cells in the notebook._  
-
-## Contact
-
-**Kasper Halevy**
-- GitHub: [@kasperhalevy](https://github.com/kasperhalevy)
-- LinkedIn: [Kasper Halevy](https://linkedin.com/in/kasperhalevy)
-- Email: kasper.e.halevy@gmail.com
+_For details, please see notebook markdowns.
